@@ -6,8 +6,8 @@ trust it, and don't put funds on the alphas.
 | --- | --- | --- |
 | [dtmf-signer](https://github.com/ndssigner/dtmf-signer) | A signer you build on a breadboard around a Raspberry Pi Pico. It hears PSBTs as phone tones and never shows the seed | v0.2.0-alpha |
 | [nds-signer](https://github.com/ndssigner/nds-signer) | SeedSigner's code on a Nintendo DSi, with QR through the camera or phone tones | v0.2.2-alpha |
-| [ur-tones](https://github.com/ndssigner/ur-tones) | The tone format both signers speak: UR parts as DTMF, over a cable or through the air, plus a web tool for Sparrow | v0.4.0 |
-| [seedcraft](https://github.com/ndssigner/seedcraft) | Seed backups as beads, bricks or cards, readable by software or by hand with a pencil | v1.0.1 |
+| [ur-tones](https://github.com/ndssigner/ur-tones) | The tone format both signers speak: UR parts as DTMF, over a cable or through the air, plus a [web tool](https://ndssigner.github.io/ur-tones/) for Sparrow | v0.4.0 |
+| [seedcraft](https://github.com/ndssigner/seedcraft) | Seed backups as beads, bricks or cards, readable by software ([web tool](https://ndssigner.github.io/seedcraft/)) or by hand with a pencil | v1.0.1 |
 
 ## Why
 
