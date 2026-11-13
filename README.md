@@ -21,8 +21,8 @@ as beads looks like a necklace. That kind of plausible deniability is also
 cheap: a used DSi costs around $50, and a Pico build about $13 in parts.
 
 Building it yourself, or reusing something nobody would bother to tamper
-with, is the best answer I know to supply-chain attacks like the Ledger
-implant of 2026. DTMF-Signer goes a step further: the seed never shows on
+with, is the best answer I know to supply-chain attacks like the implants
+found in Ledger and Trezor devices in 2026. DTMF-Signer goes a step further: the seed never shows on
 its screen, and it has no random number generator that could fail.
 
 And I like old machines. Data that travels as sound needs no camera and no
